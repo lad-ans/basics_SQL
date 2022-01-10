@@ -1,0 +1,1 @@
+EXEC spDeleteStudent '4b5af275-f557-410b-8d25-4379eeb5d5ea'
